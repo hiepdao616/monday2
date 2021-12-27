@@ -1,0 +1,3 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =1
+let g:netrw_dirhist_1='/home/jupyter-21013089@st.phenik-f84b8/Dao_Quang_Hiep'
